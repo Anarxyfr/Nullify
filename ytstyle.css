@@ -1,0 +1,17 @@
+
+#offer-module,
+#promotion-shelf,
+#description-inner > ytd-merch-shelf-renderer > #main.ytd-merch-shelf-renderer,
+#shorts-inner-container > .ytd-shorts:has(> .ytd-reel-video-renderer > ytd-ad-slot-renderer),
+ytd-rich-item-renderer:has(> #content > ytd-ad-slot-renderer),
+.ytReelMetapanelViewModelHost > .ytReelMetapanelViewModelMetapanelItem > .ytShortsSuggestedActionViewModelStaticHost,
+.ytd-section-list-renderer > .ytd-item-section-renderer > ytd-search-pyv-renderer.ytd-item-section-renderer,
+.ytd-two-column-browse-results-renderer > ytd-rich-grid-renderer > #masthead-ad.ytd-rich-grid-renderer,
+.ytd-watch-flexy > .ytd-watch-next-secondary-results-renderer > ytd-ad-slot-renderer.ytd-watch-next-secondary-results-renderer,
+.ytd-watch-flexy > ytd-merch-shelf-renderer > #main.ytd-merch-shelf-renderer,
+.grid.ytd-browse > #primary > .style-scope > .ytd-rich-grid-renderer > .ytd-rich-grid-renderer > .ytd-ad-slot-renderer,
+.ytd-rich-item-renderer.style-scope > .ytd-rich-item-renderer > .ytd-ad-slot-renderer.style-scope,
+ytd-item-section-renderer > .ytd-item-section-renderer > ytd-ad-slot-renderer.style-scope,
+.ytp-suggested-action > .ytp-suggested-action-badge {
+  display: none !important;
+}

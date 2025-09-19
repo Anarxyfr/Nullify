@@ -1,0 +1,17 @@
+.adsbox,
+.banner_ads,
+.ADBox,
+.textads,
+.adSocial,
+.adbox-wrapper {
+    display: none !important;
+}
+
+#cts_test,
+#ctd_test {
+    display: none !important;
+}
+
+.test_block:empty {
+    display: none !important;
+}

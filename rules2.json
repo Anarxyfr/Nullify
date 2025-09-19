@@ -1,0 +1,1124 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://7ng6v3lu3c.execute-api.us-east-1.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://9w2zed1szg.execute-api.us-east-1.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://aan.amazon.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://admarvel.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://adpublisher.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://adtechvideo.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://adx1js.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 9,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://alexa-mobile-analytics-configuration-prod.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 10,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://ams-pageview-public.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 11,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://babes-mansion.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 12,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://biowebb-data.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 13,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://cdj-dap.s3-ap-northeast-1.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 14,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://connectio.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 15,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 16,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://dackpartner-web.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 17,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://demandmedia.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 18,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://ecommstats.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 19,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://entrecard.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 20,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://fkrkkmxsqeb5bj9r.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 21,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 22,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://gtrk.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 23,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://hm2wjuuus3.execute-api.ap-northeast-1.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 24,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://j0v36abmdj.execute-api.us-east-1.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 25,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://m6ulblxep4.execute-api.us-east-1.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 26,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://mads-fe.amazon.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 27,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://mads.amazon.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 28,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://master-shopify-tracker.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 29,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://mj-snowplow-static-js.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 30,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://nativead.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 31,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://nitrous-analytics.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 32,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://o9tt6h08li.execute-api.eu-west-1.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 33,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://pacontainer.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 34,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://seedapp-creative.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 35,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://smetrics.afpjobs.amazon.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 36,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://smetrics.flex.amazon.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 37,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://sprocket-ping.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 38,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://tempo-client-metric-prod.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 39,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://trafficfuelpixel.s3-us-west-2.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 40,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://um-public-panel-prod.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 41,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://web-ivcbrasil-tag.s3.us-west-2.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 42,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://wphlvzycf5.execute-api.eu-west-2.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 43,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://xp2023-pix.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 44,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://yc-ads.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 45,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://yieldmo-builds.s3.amazonaws.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 46,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://adservice.google.se", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 47,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://ads-bidder-api.twitter.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 48,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://trk2.pinterest.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 49,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://error-tracking.reddit.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 50,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://pixel-config.reddit.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 51,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://pixel.reddit.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 52,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://w3-reporting-nel.reddit.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 53,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://w3-reporting.reddit.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 54,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://fcmatch.youtube.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 55,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://analytics.us.tiktok.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 56,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://gpm-mon-sg.byteoversea.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 57,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://gpm-mon-va.byteoversea.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 58,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://log.tiktokv.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 59,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://maliva-mcs.byteoversea.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 60,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://mcs-va.tiktokv.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 61,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://mon-va.byteoversea.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 62,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://mon.byteoversea.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 63,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://mon.tiktokv.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 64,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://mon.us.tiktokv.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 65,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://mssdk-sg.byteoversea.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 66,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://mssdk-va.byteoversea.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 67,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://p16-ad.byteoversea.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 68,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://rtc-logger-va.tiktokv.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 69,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://rtlog.byteoversea.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 70,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://rtlog.tiktokv.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 71,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://sf16-telemetry-proxy-oci.tiktokcdn-us.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 72,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://sgali-mcs.byteoversea.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 73,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://ug-sg.byteoversea.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 74,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://v16-ad.byteoversea.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 75,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://xlog-va.tiktokv.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 76,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://xlog.byteoversea.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 77,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://xlog.tiktokv.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 78,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://3p-geo.yahoo.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 79,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://3p-udc.yahoo.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 80,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://am.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 81,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://apm.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 82,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://b0.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 83,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://b90.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 84,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://b91.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 85,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://b92.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 86,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://b99.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 87,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://b97.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 88,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://bats.video.yahoo.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 89,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://beap-bc.yahoo.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 90,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://clb.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 91,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://cookiex.ngd.yahoo.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 92,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://dsb.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 93,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://ganon.yahoo.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 94,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://jill.fc.yahoo.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 95,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://logql.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 96,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://noa.yahoo.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 97,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://nol.yahoo.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 98,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://ov.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 99,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://pn.ybp.yahoo.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 100,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://pr-bh.ybp.yahoo.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 101,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://webc2s.pubgw.yahoo.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 102,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://yads.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 103,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://yads.yjtag.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 104,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://ybx.yahoo.co.jp", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 105,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://abt.s3.yandex.net", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 106,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://amc.yandex.ru", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 107,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://browser-updater.yandex.net", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 108,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://bs.yandex.ru", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 109,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://clck.yandex.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 110,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://csp.yandex.net", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 111,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://informer.yandex.ru", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 112,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://log.strm.yandex.ru", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 113,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://market-click-baobab.yandex.ru", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 114,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://startup.mobile.yandex.net", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 115,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://uaas.yandex.ru", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 116,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://ads-privacy-api.prd.mz.internal.unity3d.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 117,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://analytics.cloud.unity3d.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 118,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://api.uca.cloud.unity3d.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 119,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://cdp.cloud.unity3d.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 120,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://collect.analytics.unity3d.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 121,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://config.uca.cloud.unity3d.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 122,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://data-optout-service.uca.cloud.unity3d.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 123,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://events.mz.unity3d.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 124,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://perf-events.cloud.unity3d.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 125,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://pls.prd.mz.internal.unity3d.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 126,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://unityads.unity3d.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 127,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://userreporting.cloud.unity3d.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 128,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://iot-in-logser.realme.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 129,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://adv.sec.intl.miui.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 130,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://adv.sec.miui.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 131,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://api.brs.intl.miui.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 132,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://api.miui.security.xiaomi.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 133,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://api.newsfeed.intl.miui.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 134,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://api.sec.miui.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 135,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://api.setting.intl.miui.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 136,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://auth.be.sec.miui.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 137,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://authbe.sec.intl.miui.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 138,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://data.sec.intl.miui.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 139,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://data.sec.miui.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 140,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://flash.sec.intl.miui.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 141,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://metok.sys.miui.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 142,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://o2o.api.xiaomi.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 143,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://r.browser.miui.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 144,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://storeconfig.mistat.intl.xiaomi.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 145,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://tracker.ai.xiaomi.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 146,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://confe.dc.oppomobile.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 147,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://conff.dc.oppomobile.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 148,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://dragate.dc.oppomobile.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 149,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://stat-in.dc.oppomobile.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 150,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://adx-dre.op.hicloud.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 151,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://data.hicloud.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 152,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://datacollector-dra.dt.hicloud.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 153,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://hwa.his.huawei.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 154,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://teslaamg.obs.cn-east-3.myhuaweicloud.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 155,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://analytics.bigdata.samsung.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 156,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://bldr.mkt.samsung.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 157,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://dc.di.atlas.samsung.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 158,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://dc.dqa.samsung.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 159,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://dev-apigw.samsungdmroute.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 160,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://diagmon-serviceapi.samsungdm.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 161,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://dls-ddc.dqa.samsung.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 162,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://regi.di.atlas.samsung.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 163,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://sia.internet.apps.samsung.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 164,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://smetrics.samsunglife.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 165,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://sspapi-prd.samsungrs.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 166,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://stg-apigw.samsungdmroute.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 167,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://target-us.samsung.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 168,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://drupalmetrics.ppg.apple.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 169,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://securemvt.apple.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 170,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://stocks-analytics-events.apple.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 171,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://alb.reddit.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 172,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "ads.amazon.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 173,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "d.adroll.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 174,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "s.adroll.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 175,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "assets.adobedtm.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 176,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "experiencecloud.adobe.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 177,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "heapanalytics.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 178,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "cdn.heapanalytics.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 179,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "sentry.io", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 180,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "analytics.twitter.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 181,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "www.facebook.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 182,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "www.youtube-nocookie.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 183,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "ads.apple.com", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 184,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "trackersimulator.org", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 185,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "sonixify.com/adsense/", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 186,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "sonixify.com/adsbysonixify/", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  },
+  {
+    "id": 187,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "sonixify.com/analytics.js", "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"] }
+  }
+]
