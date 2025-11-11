@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Nullify</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <main class="popup">
+      <header class="popup__header">
+        <h1 class="popup__title">Nullify</h1>
+        <p class="popup__subtitle">Ad blocking overview</p>
+      </header>
+      <section class="popup__stats">
+        <div class="stat">
+          <span class="stat__label">Blocked on this page</span>
+          <span id="page-count" class="stat__value">0</span>
+        </div>
+        <div class="stat">
+          <span class="stat__label">Blocked lifetime</span>
+          <span id="lifetime-count" class="stat__value">0</span>
+        </div>
+      </section>
+      <button id="toggle-button" class="popup__button">Loading…</button>
+    </main>
+    <script type="module" src="popup.js"></script>
+  </body>
+</html>
+
