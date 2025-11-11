@@ -68,7 +68,6 @@
         }
       });
     } catch (error) {
-      // Ignore if the background context is unavailable.
     }
   }
 
