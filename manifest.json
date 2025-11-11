@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Nullify",
-  "version": "1.0",
-  "description": "One of the best adblockers, rtc blockers, and anti fingerprinter out there",
+  "version": "2.1",
+  "description": "The tuffest adblocker you could get",
   "permissions": [
     "declarativeNetRequest",
     "declarativeNetRequestWithHostAccess",
